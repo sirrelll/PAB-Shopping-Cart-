@@ -1,5 +1,5 @@
-# PAB-Shopping-Cart-
-# Tugas Flutter - Shopping Cart
+# PAB-Shopping Cart
+
 
 Tugas membuat aplikasi belanja sederhana pakai Flutter. Aplikasinya ada 3 halaman yaitu halaman produk, keranjang, dan checkout.
 
